@@ -6,6 +6,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine(Mensagem);
+            Console.WriteLine(Mensagem);
+
         }
     }
 }
